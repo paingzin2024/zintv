@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:1,Premier Football 1 
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:1,Premier Football 2
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTING:1,Premier Football 3
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:1,Premier Football 4
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&|useragent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:1,Bein Sport HD1
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:1,True Sport
+https://smart-tv.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
